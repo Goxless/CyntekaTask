@@ -1,7 +1,7 @@
 # Тестовое задание 
 
 ```bash
-git clone 
+git clone https://github.com/Goxless/CyntekaTask
 ```
 
 ---
