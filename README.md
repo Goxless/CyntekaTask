@@ -1,7 +1,7 @@
 # Тестовое задание 
 
 ```bash
-git clone 
+git clone https://github.com/Goxless/CyntekaTask
 ```
 
 ---
@@ -9,10 +9,10 @@ git clone
 ## Запуск  JAR файла через консоль
 
 * ввод "java -jar"
-* ввод названия jar файла "CyntekaTask.jar"
+* ввод названия jar файла "CyntekaTask.jar" (jar файл лежит в папке с артефактами)
 * первым аргументом - имя txt документа с вводными значениями "input.txt"
 * вторым аргументом - имя txt документа, куда следует записать результат "output.txt"
 
 ```bash
-java -jar CyntekaTask.jar {input file name } {output file name }
+java -jar CyntekaTask.jar input.txt output.txt
 ```
